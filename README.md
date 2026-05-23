@@ -25,19 +25,22 @@
 ---
 
 # 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+<div align="center">
+
+  <img src="https://i.pinimg.com/1200x/8d/0c/72/8d0c72f49aaa0a6a35d34c7b98035baa.jpg" alt="Tech Image 1" width="80" height="80" style="border-radius:10px; margin:5px;" />
+  <img src="https://i.pinimg.com/736x/0e/33/bd/0e33bd96de2b15acb8e976816ac47b4c.jpg" alt="Tech Image 2" width="80" height="80" style="border-radius:10px; margin:5px;" />
+  <img src="https://i.pinimg.com/1200x/e4/3e/4c/e43e4cd41ddffc21d2e6600dfca20306.jpg" alt="Tech Image 3" width="80" height="80" style="border-radius:10px; margin:5px;" />
+  <img src="https://i.pinimg.com/736x/eb/02/9a/eb029a57eced26a978f58d3e4db48f71.jpg" alt="Tech Image 4" width="80" height="80" style="border-radius:10px; margin:5px;" />
+  <img src="https://i.pinimg.com/1200x/0e/4f/dc/0e4fdce8ac22e09688c580e5bc4dcd7d.jpg" alt="Tech Image 5" width="80" height="80" style="border-radius:10px; margin:5px;" />
+  <img src="https://i.pinimg.com/736x/92/d6/60/92d660adb69ff63b4d133cda9592d848.jpg" alt="Tech Image 6" width="80" height="80" style="border-radius:10px; margin:5px;" />
+  <img src="https://i.pinimg.com/736x/74/f4/b2/74f4b2fe5a9d18a8b1b43db588dc35a0.jpg" alt="Tech Image 7" width="80" height="80" style="border-radius:10px; margin:5px;" />
+  <img src="https://i.pinimg.com/1200x/a9/5a/ad/a95aadde4325065401dc6942ea5dad90.jpg" alt="Tech Image 8" width="80" height="80" style="border-radius:10px; margin:5px;" />
+  <img src="https://i.pinimg.com/736x/00/e1/ee/00e1eecf4c38085b2101ce994deba1b8.jpg" alt="Tech Image 9" width="80" height="80" style="border-radius:10px; margin:5px;" />
+  <img src="https://i.pinimg.com/1200x/ad/66/a3/ad66a34a9cf32c85ce8dfe7c1e2eccff.jpg" alt="Tech Image 10" width="80" height="80" style="border-radius:10px; margin:5px;" />
+  <img src="https://i.pinimg.com/736x/7b/df/1e/7bdf1e16c7bedec90f0662eb2f9ca764.jpg" alt="Tech Image 11" width="80" height="80" style="border-radius:10px; margin:5px;" />
+  <img src="https://i.pinimg.com/736x/40/7c/70/407c7058d338e186c53c807d03634911.jpg" alt="Tech Image 12" width="80" height="80" style="border-radius:10px; margin:5px;" />
+
+</div>
 
 ---
 
