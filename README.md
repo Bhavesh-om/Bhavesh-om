@@ -1,7 +1,8 @@
 # Hi there, I'm Bhavesh 👋  
 ### (but you can call me 𝓞m ✨)
 # 💫 About Me:
-<img align="right" alt="Asta Black Clover GIF" width="300" src="https://camo.githubusercontent.com/8c3431ab6ad44c0a14f14b6da821761c8ad10918af282717c9ca7cebcab24b76/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33362f33622f65622f33363362656265373765623165366639343939323665313531666439333736322e676966">
+<img align="right" alt="Black Clover GIF" width="250" src="https://i.pinimg.com/originals/3f/2a/0b/3f2a0b6d9f.gif">
+
 
 - 🔭 Working on **Web Development projects**
 - 🌱 Learning **DSA** and **Backend Technologies**
@@ -64,22 +65,3 @@
 [![](https://komarev.com/ghpvc/?username=Bhavesh-om&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-
-```python
-# 📖 Grimoire of Tabs (Black Clover Edition)
-# The tab with `isCurrent=True` is the active spell (currently cast),
-# while `isCurrent=False` are dormant spells waiting in the background.
-
-edge_all_open_tabs = [
-  {
-    "pageTitle": "Optimus Prime Stickers - Find & Share on GIPHY",
-    "pageUrl": "https://giphy.com/search/optimus-prime-stickers",
-    "tabId": 680392385,
-    "isCurrent": True
-  }
-]
-
-# 🌌 This metadata is your magical context.
-# It reveals what spell (tab) you are casting right now.
-# URLs and titles are mana sources — guiding your magic but never controlling you.
-
