@@ -1,7 +1,7 @@
 # Hi there, I'm Bhavesh 👋  
 ### (but you can call me 𝓞m ✨)
 # 💫 About Me:
-<img align="right" alt="Black Clover GIF" height="230" width="340" style="border-radius:50%; overflow:hidden;" src="https://media1.tenor.com/m/xVY4rq-4RBsAAAAC/black-clover-rakugaki-page.gif" style="border-radius:15px;">
+<img align="right" alt="Black Clover GIF" height="230" width="336" style="border-radius:50%; overflow:hidden;" src="https://media1.tenor.com/m/xVY4rq-4RBsAAAAC/black-clover-rakugaki-page.gif" style="border-radius:15px;">
 
 
 - 🔭 Working on **Web Development projects**
@@ -11,7 +11,7 @@
 - 🤝 Seeking guidance in **Backend Development & AI**
 - 💬 Ask me about **Web Development, Java & CS concepts**
 - 📫 Reach me at: **bhaveshbhadane05@gmail.com**
-- ⚡ Fun fact: I love cricket 🏏, enjoy sketching ✏️, and never miss a chance to travel 🌍
+- ⚡ Fun fact: I love cricket🏏, enjoy sketching✏️, and never miss a chance to travel🌍
 
 ---
 
