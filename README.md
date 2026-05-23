@@ -1,8 +1,7 @@
 # Hi there, I'm Bhavesh 👋  
 ### (but you can call me 𝓞m ✨)
 # 💫 About Me:
-<img align="right" alt="Black Clover GIF" width="250" src="https://i.pinimg.com/originals/3f/2a/0b/3f2a0b6d9f.gif">
-
+<img align="right" alt="Black Clover GIF" width="250" src="https://media1.tenor.com/m/SN9oSFX55h0AAAAC/black-clover-black-clover-animated-gif-new-form.gif">
 
 - 🔭 Working on **Web Development projects**
 - 🌱 Learning **DSA** and **Backend Technologies**
