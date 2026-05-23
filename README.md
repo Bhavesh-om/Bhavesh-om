@@ -23,35 +23,27 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhaveshbhadane05@gmail.com) 
 
 ---
-
-# 💻 Tech Stack
 # 💻 Tech Stack
 
 <div align="center">
 
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/React_logo_vector_free_download_-_Seelogo_net-removebg-preview.png?raw=true" alt="React" width="80" height="80" style="border-radius:10px; margin:5px;" />
-  
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/C_Language_Logo_PNG_Vector__SVG__Free_Download-removebg-preview.png?raw=true" alt="C" width="80" height="80" style="border-radius:10px; margin:5px;" />
-  
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/JavaScript_Badge_with_JS_text-removebg-preview.png?raw=true" alt="JavaScript" width="80" height="80" style="border-radius:10px; margin:5px;" />
-  
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/MySQL_Logo_PNG_Vector__EPS__Free_Download-removebg-preview.png?raw=true" alt="MySQL" width="80" height="80" style="border-radius:10px; margin:5px;" />
-  
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/Bootstrap_Logo-removebg-preview.png?raw=true" alt="Bootstrap" width="80" height="80" style="border-radius:10px; margin:5px;" />
-  
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/Git-removebg-preview.png?raw=true" alt="Git" width="80" height="80" style="border-radius:10px; margin:5px;" />
-  
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/Top%2020%20Tailwind%20CSS%20Interview%20Questions%20and%20Answers.jpg?raw=true" alt="Tailwind CSS" width="80" height="80" style="border-radius:10px; margin:5px;" />
-  
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/Download_Free_Vectors__Images__Photos___Videos___Vecteezy-removebg-preview.png?raw=true" alt="Vercel/Netlify" width="80" height="80" style="border-radius:10px; margin:5px;" />
-  
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/Top_9_JavaScript_Concepts_for_Node_Developers__2024_-removebg-preview.png?raw=true" alt="Node.js Concepts" width="80" height="80" style="border-radius:10px; margin:5px;" />
-  
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/8_Things_That_Make_Jest_the_Best_React_Testing_Framework___Envato_Tuts+-removebg-preview.png?raw=true" alt="Jest Testing" width="80" height="80" style="border-radius:10px; margin:5px;" />
-  
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/download__11_-removebg-preview.png?raw=true" alt="Java" width="80" height="80" style="border-radius:10px; margin:5px;" />
-  
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/%D0%A2%D0%B5%D1%81%D1%82__%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%96_%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D1%82%D1%8F_mongodb_-removebg-preview.png?raw=true" alt="MongoDB" width="80" height="80" style="border-radius:10px; margin:5px;" />
+  <!-- Row 1 -->
+  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/React_logo_vector_free_download_-_Seelogo_net-removebg-preview.png?raw=true" alt="React" title="React" width="70" height="70" style="object-fit:contain; margin:8px;" />
+  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/C_Language_Logo_PNG_Vector__SVG__Free_Download-removebg-preview.png?raw=true" alt="C" title="C" width="70" height="70" style="object-fit:contain; margin:8px;" />
+  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/JavaScript_Badge_with_JS_text-removebg-preview.png?raw=true" alt="JavaScript" title="JavaScript" width="70" height="70" style="object-fit:contain; margin:8px;" />
+  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/MySQL_Logo_PNG_Vector__EPS__Free_Download-removebg-preview.png?raw=true" alt="MySQL" title="MySQL" width="70" height="70" style="object-fit:contain; margin:8px;" />
+  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/Bootstrap_Logo-removebg-preview.png?raw=true" alt="Bootstrap" title="Bootstrap" width="70" height="70" style="object-fit:contain; margin:8px;" />
+
+  <!-- Row 2 -->
+  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/Git-removebg-preview.png?raw=true" alt="Git" title="Git" width="70" height="70" style="object-fit:contain; margin:8px;" />
+  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/Top%2020%20Tailwind%20CSS%20Interview%20Questions%20and%20Answers.jpg?raw=true" alt="Tailwind CSS" title="Tailwind CSS" width="70" height="70" style="object-fit:contain; margin:8px;" />
+  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/Download_Free_Vectors__Images__Photos___Videos___Vecteezy-removebg-preview.png?raw=true" alt="Vercel/Netlify" title="Vercel/Netlify" width="70" height="70" style="object-fit:contain; margin:8px;" />
+  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/Top_9_JavaScript_Concepts_for_Node_Developers__2024_-removebg-preview.png?raw=true" alt="Node.js Concepts" title="Node.js Concepts" width="70" height="70" style="object-fit:contain; margin:8px;" />
+  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/8_Things_That_Make_Jest_the_Best_React_Testing_Framework___Envato_Tuts+-removebg-preview.png?raw=true" alt="Jest Testing" title="Jest Testing" width="70" height="70" style="object-fit:contain; margin:8px;" />
+
+  <!-- Row 3 -->
+  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/download__11_-removebg-preview.png?raw=true" alt="Java" title="Java" width="70" height="70" style="object-fit:contain; margin:8px;" />
+  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/%D0%A2%D0%B5%D1%81%D1%82__%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%96_%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D1%82%D1%8F_mongodb_-removebg-preview.png?raw=true" alt="MongoDB" title="MongoDB" width="70" height="70" style="object-fit:contain; margin:8px;" />
 
 </div>
 
