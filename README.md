@@ -25,21 +25,10 @@
 ---
 
 # 💻 Tech Stack
-<div align="center">
+<div align="center" >
+<img align="center" alt="Black Clover Theme" width="300" style="border-radius:15px;" src="https://i.pinimg.com/736x/70/9b/81/709b81c9945100deddd0cd6e92917b12.jpg">
 
-  <img src="https://i.pinimg.com/1200x/8d/0c/72/8d0c72f49aaa0a6a35d34c7b98035baa.jpg" alt="Tech Image 1" width="80" height="80" style="border-radius:10px; margin:5px;" />
-  <img src="https://i.pinimg.com/736x/0e/33/bd/0e33bd96de2b15acb8e976816ac47b4c.jpg" alt="Tech Image 2" width="80" height="80" style="border-radius:10px; margin:5px;" />
-  <img src="https://i.pinimg.com/1200x/e4/3e/4c/e43e4cd41ddffc21d2e6600dfca20306.jpg" alt="Tech Image 3" width="80" height="80" style="border-radius:10px; margin:5px;" />
-  <img src="https://i.pinimg.com/736x/eb/02/9a/eb029a57eced26a978f58d3e4db48f71.jpg" alt="Tech Image 4" width="80" height="80" style="border-radius:10px; margin:5px;" />
-  <img src="https://i.pinimg.com/1200x/0e/4f/dc/0e4fdce8ac22e09688c580e5bc4dcd7d.jpg" alt="Tech Image 5" width="80" height="80" style="border-radius:10px; margin:5px;" />
-  <img src="https://i.pinimg.com/736x/92/d6/60/92d660adb69ff63b4d133cda9592d848.jpg" alt="Tech Image 6" width="80" height="80" style="border-radius:10px; margin:5px;" />
-  <img src="https://i.pinimg.com/736x/74/f4/b2/74f4b2fe5a9d18a8b1b43db588dc35a0.jpg" alt="Tech Image 7" width="80" height="80" style="border-radius:10px; margin:5px;" />
-  <img src="https://i.pinimg.com/1200x/a9/5a/ad/a95aadde4325065401dc6942ea5dad90.jpg" alt="Tech Image 8" width="80" height="80" style="border-radius:10px; margin:5px;" />
-  <img src="https://i.pinimg.com/736x/00/e1/ee/00e1eecf4c38085b2101ce994deba1b8.jpg" alt="Tech Image 9" width="80" height="80" style="border-radius:10px; margin:5px;" />
-  <img src="https://i.pinimg.com/1200x/ad/66/a3/ad66a34a9cf32c85ce8dfe7c1e2eccff.jpg" alt="Tech Image 10" width="80" height="80" style="border-radius:10px; margin:5px;" />
-  <img src="https://i.pinimg.com/736x/7b/df/1e/7bdf1e16c7bedec90f0662eb2f9ca764.jpg" alt="Tech Image 11" width="80" height="80" style="border-radius:10px; margin:5px;" />
-  <img src="https://i.pinimg.com/736x/40/7c/70/407c7058d338e186c53c807d03634911.jpg" alt="Tech Image 12" width="80" height="80" style="border-radius:10px; margin:5px;" />
-
+  
 </div>
 
 ---
