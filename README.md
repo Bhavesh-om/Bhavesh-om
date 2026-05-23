@@ -26,7 +26,8 @@
 
 # 💻 Tech Stack
 <div align="center" >
-<img align="center" alt="Black Clover Theme" width="300" style="border-radius:15px;" src="https://i.pinimg.com/736x/70/9b/81/709b81c9945100deddd0cd6e92917b12.jpg">
+<img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/download__1_-removebg-preview.png?raw=true" alt="My Tech Icon" width="80" height="80" style="border-radius:10px; margin:5px;" />
+
 
   
 </div>
