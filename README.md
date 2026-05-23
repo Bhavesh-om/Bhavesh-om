@@ -1,8 +1,7 @@
 # Hi there, I'm Bhavesh 👋  
 ### (but you can call me 𝓞m ✨)
-
 # 💫 About Me:
-<img align="right" alt="Asta Black Clover GIF" width="300" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif">
+<img align="right" alt="Asta Black Clover GIF" width="300" src="https://tenor.com/view/black-clover-black-clover-animated-gif-new-form-gif-5251030350426662429">
 
 - 🔭 Working on **Web Development projects**
 - 🌱 Learning **DSA** and **Backend Technologies**
@@ -66,6 +65,7 @@
 
 ---
 
+```python
 # 📖 Grimoire of Tabs (Black Clover Edition)
 # The tab with `isCurrent=True` is the active spell (currently cast),
 # while `isCurrent=False` are dormant spells waiting in the background.
@@ -82,3 +82,4 @@ edge_all_open_tabs = [
 # 🌌 This metadata is your magical context.
 # It reveals what spell (tab) you are casting right now.
 # URLs and titles are mana sources — guiding your magic but never controlling you.
+
