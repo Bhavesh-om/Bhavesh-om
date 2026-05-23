@@ -1,7 +1,7 @@
 # Hi there, I'm Bhavesh 👋  
 ### (but you can call me 𝓞m ✨)
 # 💫 About Me:
-<img align="right" alt="Black Clover GIF" height="220" width="300" src="https://media1.tenor.com/m/xVY4rq-4RBsAAAAC/black-clover-rakugaki-page.gif" style="border-radius:15px;">
+<img align="right" alt="Black Clover GIF" height="220" width="330" src="https://media1.tenor.com/m/xVY4rq-4RBsAAAAC/black-clover-rakugaki-page.gif" style="border-radius:15px;">
 
 
 - 🔭 Working on **Web Development projects**
