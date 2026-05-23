@@ -11,7 +11,7 @@
 - 🤝 Seeking guidance in **Backend Development & AI**
 - 💬 Ask me about **Web Development, Java & CS concepts**
 - 📫 Reach me at: **bhaveshbhadane05@gmail.com**
-- ⚡ Fun fact: I love cricket🏏, enjoy sketching✏️, and never miss a chance to travel🌍
+- ⚡ Fun fact: I love cricket🏏, and never miss a chance to travel🌍
 
 ---
 
