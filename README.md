@@ -50,5 +50,5 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bhavesh-om&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-![Quote](https://img.shields.io/badge/Like_a_grimoire,_every_line_unlocks_new_magic-8A2BE2?style=for-the-badge&logo=magic&logoColor=white)
+![Quote](https://img.shields.io/badge/Like_a_grimoire,_every_line_of_code_unlocks_new_magic-8A2BE2?style=for-the-badge&logo=magic&logoColor=white)
 
