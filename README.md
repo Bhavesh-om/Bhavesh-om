@@ -1,7 +1,7 @@
 # Hi there, I'm Bhavesh 👋  
 ### (but you can call me 𝓞m ✨)
 # 💫 About Me:
-<img align="right" alt="Asta Black Clover GIF" width="300" src="https://tenor.com/view/black-clover-black-clover-animated-gif-new-form-gif-5251030350426662429">
+<img align="right" alt="Asta Black Clover GIF" width="300" src="https://camo.githubusercontent.com/8c3431ab6ad44c0a14f14b6da821761c8ad10918af282717c9ca7cebcab24b76/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33362f33622f65622f33363362656265373765623165366639343939323665313531666439333736322e676966">
 
 - 🔭 Working on **Web Development projects**
 - 🌱 Learning **DSA** and **Backend Technologies**
