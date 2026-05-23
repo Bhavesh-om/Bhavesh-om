@@ -1,8 +1,8 @@
 # Hi there, I'm Bhavesh 👋  
 ### (but you can call me 𝓞m ✨)
-# 💫 About Me:
-<img align="right" alt="Black Clover GIF" height="200" width="342" style="border-radius:50%; overflow:hidden;" src="https://media1.tenor.com/m/xVY4rq-4RBsAAAAC/black-clover-rakugaki-page.gif" style="border-radius:15px;">
 
+# 💫 About Me:
+<img align="right" alt="Black Clover GIF" height="200" width="342" style="border-radius:50%; overflow:hidden;" src="https://media1.tenor.com/m/xVY4rq-4RBsAAAAC/black-clover-rakugaki-page.gif">
 
 - 🔭 Working on **Web Development projects**
 - 🌱 Learning **DSA** and **Backend Technologies**
@@ -11,7 +11,7 @@
 - 🤝 Seeking guidance in **Backend Development & AI**
 - 💬 Ask me about **Web Development, Java & CS concepts**
 - 📫 Reach me at: **bhaveshbhadane05@gmail.com**
-- ⚡ Fun fact: I love cricket🏏, and never miss a chance to travel🌍
+- ⚡ Fun fact: I love cricket 🏏, and never miss a chance to travel 🌍
 
 ---
 
@@ -36,19 +36,28 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=Bhavesh-om&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Bhavesh-om&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bhavesh-om&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+  <img src="https://github-readme-stats.shion.dev/api?username=Bhavesh-om&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  
+  <img src="https://streak-stats.demolab.com/?user=Bhavesh-om&theme=dark&hide_border=false" />
+  
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Bhavesh-om&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+</div>
 
 ---
-![Quote](https://img.shields.io/badge/Like_a_grimoire,_every_line_of_code_unlocks_new_magic-8A2BE2?style=for-the-badge&logo=magic&logoColor=white)
 
+<div align="center">
+  
+  ![Quote](https://img.shields.io/badge/Like_a_grimoire,_every_line_of_code_unlocks_new_magic-8A2BE2?style=for-the-badge&logo=magic&logoColor=white)
+
+</div>
+
+---
