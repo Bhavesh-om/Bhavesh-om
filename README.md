@@ -51,15 +51,20 @@
 ---
 
 # 📊 GitHub Stats
+# 📊 GitHub Stats
 <div align="center">
 
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Bhavesh-om&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  
+  <!-- Commits, Stars, Forks -->
+  <img src="https://github-readme-stats-three-virid-96.vercel.app/api?username=Bhavesh-om&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" />
+
+  <!-- Streaks -->
   <img src="https://streak-stats.demolab.com/?user=Bhavesh-om&theme=dark&hide_border=false&v=1" />
-  
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bhavesh-om&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" />
+
+  <!-- Languages -->
+  <img src="https://github-readme-stats-three-virid-96.vercel.app/api/top-langs/?username=Bhavesh-om&theme=dark&hide_border=false&layout=compact&count_private=true&cache_seconds=1800" />
 
 </div>
+
 
 
 
