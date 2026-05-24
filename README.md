@@ -53,14 +53,14 @@
 # 📊 GitHub Stats
 <div align="center">
 
-  <img src="https://github-readme-stats.shion.dev/api?username=Bhavesh-om&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavesh-om&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" />
   
-  <img src="https://streak-stats.demolab.com/?user=Bhavesh-om&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=Bhavesh-om&theme=dark&hide_border=false&v=1" />
   
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Bhavesh-om&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh-om&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" />
 
 </div>
+
 
 ---
 
