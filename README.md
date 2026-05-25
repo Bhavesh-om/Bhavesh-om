@@ -1,9 +1,11 @@
 # 👋 Hi there, I'm Bhavesh  
 *(but you can call me 𝓞m ✨)*
 
+## 💫 About Me
+
 <img align="right" alt="Black Clover GIF" height="200" width="342" style="border-radius:50%;" src="https://media1.tenor.com/m/xVY4rq-4RBsAAAAC/black-clover-rakugaki-page.gif">
 
-## 💫 About Me
+
 - 🔭 Currently working on **Web Development projects**  
 - 🌱 Learning **DSA** and **Backend Technologies**  
 - 📚 Passionate about **Core CS subjects**  
@@ -16,12 +18,11 @@
 ---
 
 ## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/FfDZ9R4cRn)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhavesh_._.45)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavesh-bhadane)  
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31353998)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhaveshbhadane05@gmail.com)  
-
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/FfDZ9R4cRn) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhavesh_._.45) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavesh-bhadane) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31353998) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhaveshbhadane05@gmail.com) 
 ---
 
 ## 💻 Tech Stack
