@@ -5,7 +5,6 @@
 
 <img align="right" alt="Black Clover GIF" height="200" width="342" style="border-radius:50%;" src="https://media1.tenor.com/m/xVY4rq-4RBsAAAAC/black-clover-rakugaki-page.gif">
 
-
 - 🔭 Currently working on **Web Development projects**  
 - 🌱 Learning **DSA** and **Backend Technologies**  
 - 📚 Passionate about **Core CS subjects**  
@@ -23,6 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavesh-bhadane) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31353998) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhaveshbhadane05@gmail.com) 
+
 ---
 
 ## 💻 Tech Stack
@@ -50,23 +50,22 @@
 </div>
 
 ---
+
 ## 📊 GitHub Stats
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavesh-om&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" />
-
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=Bhavesh-om&theme=dark&hide_border=false" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh-om&theme=dark&hide_border=false&layout=compact&cache_seconds=86400" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Bhavesh-om&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  
+  <img src="https://streak-stats.demolab.com/?user=Bhavesh-om&theme=dark&hide_border=false&v=1" />
+  
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bhavesh-om&theme=dark&hide_border=false&layout=compact&cache_seconds=1800" />
 
 </div>
+
 ---
 
+<div align="center">
   
   ![Quote](https://img.shields.io/badge/Like_a_grimoire,_every_line_of_code_unlocks_new_magic-8A2BE2?style=for-the-badge&logo=magic&logoColor=white)
 
 </div>
-
