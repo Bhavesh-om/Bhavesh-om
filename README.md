@@ -50,24 +50,21 @@
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavesh-om&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavesh-om&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" />
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavesh-om&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=Bhavesh-om&theme=dark&hide_border=false" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh-om&theme=dark&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh-om&theme=dark&hide_border=false&layout=compact&cache_seconds=86400" />
 
 </div>
+---
 
-
-
-<div align="center">
   
   ![Quote](https://img.shields.io/badge/Like_a_grimoire,_every_line_of_code_unlocks_new_magic-8A2BE2?style=for-the-badge&logo=magic&logoColor=white)
 
