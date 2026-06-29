@@ -1,18 +1,21 @@
-# 👋 Hi there, I'm Bhavesh!  
-*(but you can call me 𝓞m ✨)*
+# 👋 Hi, I'm Bhavesh (𝓞m ✨)
 
-## 💫 About Me
+**Developer focused on building real-world projects and mastering problem-solving.**
+
+---
+
+## 💡 About Me
 
 <img align="right" alt="Black Clover GIF" height="200" width="342" style="border-radius:50%;" src="https://media1.tenor.com/m/xVY4rq-4RBsAAAAC/black-clover-rakugaki-page.gif">
 
-- 🔭 Currently working on **Web Development projects**  
-- 🌱 Learning **DSA** and **Backend Technologies**  
-- 📚 Passionate about **Core CS subjects**  
-- 👯 Open to collaborate on **Web Dev & Open Source**  
-- 🤝 Seeking guidance in **Backend Development & AI**  
-- 💬 Ask me about **Web Development, Java & CS concepts**  
-- 📫 Reach me at: **bhaveshbhadane05@gmail.com**  
-- ⚡ Fun fact: I love cricket 🏏 and never miss a chance to travel 🌍  
+* 🔭 Currently working on **Web Development projects**
+* 🌱 Learning **DSA** and **Backend Technologies**
+* 📚 Passionate about **Core CS subjects**
+* 👯 Open to collaborate on **Web Dev & Open Source**
+* 🤝 Seeking guidance in **Backend Development & AI**
+* 💬 Ask me about **Web Development, Java & CS concepts**
+* 📫 Reach me at: **bhaveshbhadane05@gmail.com**
+* ⚡ Fun fact: Melodies & miles 🎵✨
 
 ---
 
@@ -25,29 +28,23 @@
 
 ---
 
-## 💻 Tech Stack
-<div align="center">
+## ⚙️ Tech Stack
 
-  <!-- Row 1 -->
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/download__1_-removebg-preview.png?raw=true" alt="Custom Icon" height="60" />
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/React_logo_vector_free_download_-_Seelogo_net-removebg-preview.png?raw=true" alt="React" height="60" />
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/C_Language_Logo_PNG_Vector__SVG__Free_Download-removebg-preview.png?raw=true" alt="C" height="60" />
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/JavaScript_Badge_with_JS_text-removebg-preview.png?raw=true" alt="JavaScript" height="60" />
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/MySQL_Logo_PNG_Vector__EPS__Free_Download-removebg-preview.png?raw=true" alt="MySQL" height="60" />
-
-  <!-- Row 2 -->
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/Bootstrap_Logo-removebg-preview.png?raw=true" alt="Bootstrap" height="60" />
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/Git-removebg-preview.png?raw=true" alt="Git" height="60" />
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/Top%2020%20Tailwind%20CSS%20Interview%20Questions%20and%20Answers.jpg?raw=true" alt="Tailwind CSS" height="60" />
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/Download_Free_Vectors__Images__Photos___Videos___Vecteezy-removebg-preview.png?raw=true" alt="Vercel/Netlify" height="60" />
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/Top_9_JavaScript_Concepts_for_Node_Developers__2024_-removebg-preview.png?raw=true" alt="Node.js" height="60" />
-
-  <!-- Row 3 -->
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/8_Things_That_Make_Jest_the_Best_React_Testing_Framework___Envato_Tuts+-removebg-preview.png?raw=true" alt="Jest" height="60" />
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/download__11_-removebg-preview.png?raw=true" alt="Java" height="60" />
-  <img src="https://github.com/Bhavesh-om/Bhavesh-om/blob/main/%D0%A2%D0%B5%D1%81%D1%82__%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%96_%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D1%82%D1%8F_mongodb_-removebg-preview.png?raw=true" alt="MongoDB" height="60" />
-
-</div>
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+![Jest](https://img.shields.io/badge/Jest-111111?style=for-the-badge&logo=jest)
 
 ---
 
@@ -63,9 +60,6 @@
 </div>
 
 ---
-
-<div align="center">
   
-  ![Quote](https://img.shields.io/badge/Like_a_grimoire,_every_line_of_code_unlocks_new_magic-8A2BE2?style=for-the-badge&logo=magic&logoColor=white)
 
-</div>
+> ⚡ *“Like a grimoire, every line of code unlocks new magic.”*
